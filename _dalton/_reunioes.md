@@ -42,3 +42,8 @@ final -> indica o que vai fazer
 Museus de cima  
 CBIE de cima  
 TCC Gabriel Brognei [anexo](tcc_GabrielBrogniBento.pdf "anexo")  
+
+## 2022/09/01  
+
+Enviei e-mail solicitando como estava a produção do Pré-Projeto. Respondeu:  
+[2022-09-01_Reuniao](2022-09-01_Reuniao.pdf "2022-09-01_Reuniao")  
