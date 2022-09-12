@@ -47,3 +47,8 @@ TCC Gabriel Brognei [anexo](tcc_GabrielBrogniBento.pdf "anexo")
 
 Enviei e-mail solicitando como estava a produção do Pré-Projeto. Respondeu:  
 [2022-09-01_Reuniao](2022-09-01_Reuniao.pdf "2022-09-01_Reuniao")  
+
+## 2022-09-12 - 10:48
+
+PreProjeto não revisado.  
+[2022-09-12_PreProjeto](2022-09-12_PreProjeto.pdf "2022-09-12_PreProjeto")  
