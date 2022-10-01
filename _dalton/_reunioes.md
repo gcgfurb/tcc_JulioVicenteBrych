@@ -52,3 +52,11 @@ Enviei e-mail solicitando como estava a produção do Pré-Projeto. Respondeu:
 
 PreProjeto não revisado.  
 [2022-09-12_PreProjeto](2022-09-12_PreProjeto.pdf "2022-09-12_PreProjeto")  
+
+## 2022-09-23
+
+Primeira revisão do pré-projeto: [2022-09-23_PreProjeto_Dalton.pdf](2022-09-23_PreProjeto_Dalton.pdf "2022-09-23_PreProjeto_Dalton.pdf")  
+
+## 2022-10-01 - 11:26
+
+Segunda revisão do pré-projeto: [2022-09-30_PreProjeto_Dalton](2022-09-30_PreProjeto_Dalton.pdf "2022-09-30_PreProjeto_Dalton")  
