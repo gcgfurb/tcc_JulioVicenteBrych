@@ -60,3 +60,8 @@ Primeira revisão do pré-projeto: [2022-09-23_PreProjeto_Dalton.pdf](2022-09-23
 ## 2022-10-01 - 11:26
 
 Segunda revisão do pré-projeto: [2022-09-30_PreProjeto_Dalton](2022-09-30_PreProjeto_Dalton.pdf "2022-09-30_PreProjeto_Dalton")  
+
+## 2022-10-06 - 21:12
+
+[2022-10-06_PreProjeto_Entrgue.docx](2022-10-06_PreProjeto_Entrgue.docx "2022-10-06_PreProjeto_Entrgue.docx")
+[2022-10-06_PreProjeto_Entrgue.pdf](2022-10-06_PreProjeto_Entrgue.pdf "2022-10-06_PreProjeto_Entrgue.pdf")  
