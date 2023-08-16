@@ -65,3 +65,16 @@ Segunda revisão do pré-projeto: [2022-09-30_PreProjeto_Dalton](2022-09-30_PreP
 
 [2022-10-06_PreProjeto_Entrgue.docx](2022-10-06_PreProjeto_Entrgue.docx "2022-10-06_PreProjeto_Entrgue.docx")
 [2022-10-06_PreProjeto_Entrgue.pdf](2022-10-06_PreProjeto_Entrgue.pdf "2022-10-06_PreProjeto_Entrgue.pdf")  
+
+## 2023-08-16 - 10:47
+
+Era para ser na segunda (2023-08-14).  
+\[x] Testou o Vuforia.  
+\[x] Testou o LeapMotion.  
+
+### Problema
+
+Não é possível o LeapMotion direto no Android.  
+Para usar no Desktop o Vuforia e LeapMotion funcionam em versão diferentes de Windows.  
+
+**Solução**: usar Mirror para "ligar" o APK (Android) com Vuforia para RA com o EXE (Windows) que está "escutando" o LeapMotion. Assim o EXE "mexe" o objeto usando o Leap, e o APK "enxerga" em RA.  
