@@ -18,21 +18,21 @@ Museu
 2 parágrafos  
 Museus Virtuais  
 <https://www.melhoresdestinos.com.br/museus-virtuais.html>  
-Museu Virtuais / Tecnologicos  
+Museu Virtuais / Tecnológicos  
 <https://www.pucrs.br/mct/>  
-Educaional  
+Educacional  
 
-Educaional  
+Educacional  
 3 paragrafo  
 Gancho  
 RV/RA -> demonstra um objeto  
 Exemplos materiais educacionais  
 2020: <https://cbie.ceie-br.org/2020/>  
 2021  
-Obetos 3D  
+Objetos 3D  
 Uma das formas de inspecionar objetos 3d usando RA, por exemplo, é o ExploreCat. O ExploreCat usa LeapMotion ...  
 LeapMotion  
-Haradware sobre o Leap  
+Hardware sobre o Leap  
 
 1 paragrafo  
 final -> indica o que vai fazer  
@@ -63,8 +63,8 @@ Segunda revisão do pré-projeto: [2022-09-30_PreProjeto_Dalton](2022-09-30_PreP
 
 ## 2022-10-06 - 21:12
 
-[2022-10-06_PreProjeto_Entrgue.docx](2022-10-06_PreProjeto_Entrgue.docx "2022-10-06_PreProjeto_Entrgue.docx")
-[2022-10-06_PreProjeto_Entrgue.pdf](2022-10-06_PreProjeto_Entrgue.pdf "2022-10-06_PreProjeto_Entrgue.pdf")  
+[2022-10-06_PreProjeto_Entregue.docx](2022-10-06_PreProjeto_Entregue.docx "2022-10-06_PreProjeto_Entregue.docx")
+[2022-10-06_PreProjeto_Entregue.pdf](2022-10-06_PreProjeto_Entregue.pdf "2022-10-06_PreProjeto_Entregue.pdf")  
 
 ## 2023-08-16 - 10:47
 
