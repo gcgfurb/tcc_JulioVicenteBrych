@@ -78,3 +78,21 @@ Não é possível o LeapMotion direto no Android.
 Para usar no Desktop o Vuforia e LeapMotion funcionam em versão diferentes de Windows.  
 
 **Solução**: usar Mirror para "ligar" o APK (Android) com Vuforia para RA com o EXE (Windows) que está "escutando" o LeapMotion. Assim o EXE "mexe" o objeto usando o Leap, e o APK "enxerga" em RA.  
+
+## 2023-08-30 - 16:28
+
+[2023-08-30_reuniao](2023-08-30_reuniao.pdf)  
+
+### Julio
+
+Vai fazer a *arquitetura* funcionar.  
+Rotina semi-pronta de menu "grudado" na mão.  
+
+### Dalton
+
+NB Maurício - usar no Museu?  
+
+#### Althoff
+
+Qual modelo real usar?
+Material para fazer o marcador (imagem, site, etc.)  
