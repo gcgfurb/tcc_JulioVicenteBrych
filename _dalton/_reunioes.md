@@ -104,3 +104,8 @@ Material para fazer o marcador (imagem, site, etc.)
 ## 2023-10-05 - 15:07
 
 [Modelos](Modelos)  
+
+## 2023-10-18 - 17:54
+
+Impressão 3D China indicado pelo prof. Miguel:  
+<https://3d.jlcpcb.com/?_ga=2.12130359.2079324336.1697661508-1789825857.1697661508>  
