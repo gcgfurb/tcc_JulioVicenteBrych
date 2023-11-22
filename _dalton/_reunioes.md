@@ -109,3 +109,10 @@ Material para fazer o marcador (imagem, site, etc.)
 
 Impressão 3D China indicado pelo prof. Miguel:  
 <https://3d.jlcpcb.com/?_ga=2.12130359.2079324336.1697661508-1789825857.1697661508>  
+
+## 2023-11-22 - 20:20
+
+[BannerParedeRascunho](<Banner_parde_rascunho.pdf>)  
+
+Banner A3 para pendurar na parede:  
+![BannerParede](<Banner_parde.png>)  
