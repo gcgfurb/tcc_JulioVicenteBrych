@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="Cena" size="0.150000 0.149098" />
+    <ImageTarget name="pequeno" size="1.000000 0.982143" />
+    <ImageTarget name="Mathedi" size="1.000000 0.555861" />
+    <ImageTarget name="AdesivoFrente" size="1.000000 0.984868" />
+    <ImageTarget name="AdesivoVerso" size="1.000000 1.033291" />
+  </Tracking>
+</QCARConfig>

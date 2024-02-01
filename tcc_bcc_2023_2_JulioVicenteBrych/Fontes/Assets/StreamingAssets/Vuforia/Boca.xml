@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+<Tracking>
+<ModelTarget name="Boca" motionHint="adaptive" trackingMode="car" optimizeTrackingFor="default"/>
+
+</Tracking>
+
+<Assembly name="Bocas_assembly" assemblyId="8657208cc1c4437f84ed61b2c4f044c8">
+<Part name="Boca" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="GuideView_0000" translation="0.00832585 -0.0296709 0.391543" rotation="AD: -0.0444373 -1.1066 2.32495 179.059" trained="no">
+
+</EntryPoint>
+<EntryPoint name="GuideView_0001" translation="0.0287633 -0.0160639 0.430653" rotation="AD: 0.792567 -0.720857 1.77441 197.66" trained="no">
+
+</EntryPoint>
+<EntryPoint name="GuideView_0002" translation="0.00495993 -0.0339694 0.452521" rotation="AD: 0.996589 -0.204333 0.48577 220.795" trained="no">
+
+</EntryPoint>
+<EntryPoint name="GuideView_0003" translation="-0.00397465 -0.00274924 0.436043" rotation="AD: 0.996255 0.203969 -0.511055 218.515" trained="no">
+
+</EntryPoint>
+<EntryPoint name="GuideView_0004" translation="-0.0132115 -0.0165125 0.36256" rotation="AD: 1 0.00370545 0.00514066 108.432" trained="no">
+
+</EntryPoint>
+<EntryPoint name="GuideView_0005" translation="0.00924397 0.00830113 0.388609" rotation="AD: -0.764852 0.772657 1.72161 199.138" trained="no">
+
+</EntryPoint>
+<EntryPoint name="GuideView_0006" translation="0.0175919 0.016481 0.365565" rotation="AD: 0.871406 0.590166 1.64183 161.751" trained="no">
+
+</EntryPoint>
+<EntryPoint name="GuideView_0007" translation="0.00347704 -0.00777914 0.336179" rotation="AD: 1 0.00615676 0.017128 140.464" trained="no">
+
+</EntryPoint>
+
+</Assembly>
+
+</QCARConfig>

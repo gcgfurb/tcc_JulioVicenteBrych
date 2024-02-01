@@ -1,0 +1,2 @@
+A pasta FossilAR-Windows é o último build feito do projeto Windows, e que está em utilização.
+já o arquivo FossilAR-Android.apk é a última versão do app instalado no celular que está em utilização.
